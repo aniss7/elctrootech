@@ -1,4 +1,4 @@
-<script id='main-js' type='text/javascript'>
+
 //<![CDATA[	
 var wait_jq = setInterval(function(){	
 	if (typeof($) != 'undefined') {
@@ -52,4 +52,4 @@ b='<div class="archive-page-pagination archive-page-pagination-';c='t" href="jav
 } /* end of main_js */
 
 //]]>
-</script>
+
